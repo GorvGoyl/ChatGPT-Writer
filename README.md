@@ -1,4 +1,7 @@
 # ChatGPT Writer
+
+Free Chrome extension that uses ChatGPT AI to generate entire emails or replies based on a few keywords that you input. 
+
 Homepage: https://chatgptwriter.ai
 
 ### Report bugs and issues: 
